@@ -11,44 +11,21 @@
 
 </div>
 
-## Olá, eu sou o Gabriel 👋
+<br/>
 
-Sou profissional de Tecnologia da Informação com experiência em **suporte técnico, infraestrutura corporativa, ambientes Microsoft, redes e troubleshooting**.
+<img src="./assets/terminal-profile.svg" width="100%" alt="Terminal profissional de Gabriel Alexandre"/>
 
-Minha trajetória está direcionada para **Cloud Infrastructure & Security**. Uso este espaço para transformar estudos e desafios técnicos em laboratórios práticos, automações e documentação que demonstram meu desenvolvimento profissional.
+## Sobre mim
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Sou profissional de Tecnologia da Informação com experiência em **suporte técnico, infraestrutura corporativa, ambientes Microsoft, redes e troubleshooting**. Minha trajetória está direcionada para **Cloud Infrastructure & Security**.
 
-### O que faço hoje
+Transformo estudos e desafios técnicos em laboratórios, automações e documentação — porque uma solução bem construída também precisa ser segura, observável e fácil de manter.
 
-- Suporte remoto e presencial
-- Administração de Microsoft 365
-- Active Directory e Microsoft Entra ID
-- Microsoft Intune e endpoints Windows
-- Monitoramento com Zabbix e Grafana
-- Diagnóstico de redes, VPNs e aplicações
-- Automação e coleta de evidências com PowerShell
+## Meu mapa técnico
 
-</td>
-<td width="50%" valign="top">
+<img src="./assets/technical-focus.svg" width="100%" alt="Mapa de competências em infraestrutura, redes, segurança e observabilidade"/>
 
-### Para onde estou evoluindo
-
-- Cloud Security no Microsoft Azure
-- Segurança de identidades e endpoints
-- Monitoramento e resposta a incidentes
-- Infraestrutura como código e automação
-- Redes corporativas e arquitetura cloud
-- Certificações Microsoft Security e Cisco
-- Carreira como Cloud Security Engineer
-
-</td>
-</tr>
-</table>
-
-## Stack técnica
+## Tecnologias
 
 <div align="center">
 
@@ -90,59 +67,51 @@ Minha trajetória está direcionada para **Cloud Infrastructure & Security**. Us
 
 ### ☁️ [Azure Enterprise Lab](https://github.com/Gabriel-F4l/Azure-Enterprise-Lab)
 
-Laboratório de infraestrutura corporativa no Microsoft Azure, organizado para explorar:
+Laboratório de infraestrutura corporativa no Microsoft Azure.
 
-- Redes e segmentação
-- Microsoft Entra ID e RBAC
+`Azure` `Entra ID` `RBAC` `Networking` `Monitoring`
+
+- Arquitetura e segmentação
+- Identidade e controle de acesso
 - Monitoramento e governança
-- Segurança e controle de custos
-- Documentação de arquitetura
+- Segurança e documentação
 
-[![Abrir projeto](https://img.shields.io/badge/Abrir_projeto-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-F4l/Azure-Enterprise-Lab)
+[![Explorar laboratório](https://img.shields.io/badge/Explorar_laboratório-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-F4l/Azure-Enterprise-Lab)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 [SuperTech Network Lab](https://github.com/Gabriel-F4l/packet-tracer-lab)
 
-Laboratório empresarial criado no Cisco Packet Tracer com:
+Infraestrutura empresarial simulada no Cisco Packet Tracer.
 
-- VLANs e endereçamento IPv4
-- DHCP e DNS
-- Roteamento
-- ACLs e controle de tráfego
-- Troubleshooting de conectividade
+`Cisco` `VLAN` `IPv4` `DHCP` `DNS` `ACL`
 
-[![Abrir projeto](https://img.shields.io/badge/Abrir_projeto-6D5DFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-F4l/packet-tracer-lab)
+- Segmentação e roteamento
+- Serviços de rede
+- Controle de tráfego
+- Testes e troubleshooting
+
+[![Explorar laboratório](https://img.shields.io/badge/Explorar_laboratório-6D5DFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-F4l/packet-tracer-lab)
 
 </td>
 </tr>
 </table>
 
-## GitHub em números
+## Minha trilha
 
-<div align="center">
+<img src="./assets/cloud-security-roadmap.svg" width="100%" alt="Trilha profissional para Cloud Security"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel-F4l&show_icons=true&hide_border=true&bg_color=0B1220&title_color=60A5FA&icon_color=A78BFA&text_color=D8E9FF&locale=pt-br" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-F4l&hide_border=true&background=0B1220&ring=60A5FA&fire=A78BFA&currStreakLabel=60A5FA&sideLabels=D8E9FF&dates=94A3B8&stroke=1E3A5F" alt="Sequência de contribuições"/>
+## Princípios que guiam meu trabalho
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-F4l&bg_color=0B1220&color=93C5FD&line=8B5CF6&point=38BDF8&area=true&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%A3o" width="100%" alt="Gráfico de atividade"/>
-
-</div>
-
-## Próximos passos
-
-```text
-[em andamento]  Aprofundar Azure e Cloud Security
-[planejado]     Microsoft Security Fundamentals — SC-900
-[planejado]     Azure Administrator — AZ-104
-[planejado]     Security Operations Analyst — SC-200
-[objetivo]      Cloud Infrastructure & Security Engineer
-```
+<table>
+<tr>
+<td align="center" width="25%"><b>🔐 Segurança</b><br/><sub>Desde o desenho da solução</sub></td>
+<td align="center" width="25%"><b>📊 Observabilidade</b><br/><sub>Logs, métricas e evidências</sub></td>
+<td align="center" width="25%"><b>⚙️ Automação</b><br/><sub>Menos repetição, mais consistência</sub></td>
+<td align="center" width="25%"><b>📚 Documentação</b><br/><sub>Conhecimento que permanece</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -150,6 +119,8 @@ Laboratório empresarial criado no Cisco Packet Tracer com:
 
 ### “Segurança não é apenas uma ferramenta — é parte da arquitetura.”
 
-Projetos práticos • Aprendizado contínuo • Documentação técnica
+**Cloud • Infrastructure • Networks • Security**
+
+[![Ver todos os projetos](https://img.shields.io/badge/Ver_todos_os_projetos-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel-F4l?tab=repositories)
 
 </div>
