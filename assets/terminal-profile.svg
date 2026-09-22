@@ -1,0 +1,20 @@
+<svg width="1200" height="285" viewBox="0 0 1200 285" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="285"><stop stop-color="#091426"/><stop offset="1" stop-color="#101B38"/></linearGradient>
+  <linearGradient id="line" x1="120" y1="0" x2="1080" y2="0"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#6366F1"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="283" rx="18" fill="url(#panel)" stroke="#263A63" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="46" rx="18" fill="#111D35"/>
+<path d="M1 47H1199" stroke="#263A63"/>
+<circle cx="28" cy="24" r="7" fill="#FF5F57"/><circle cx="52" cy="24" r="7" fill="#FEBB2E"/><circle cx="76" cy="24" r="7" fill="#28C840"/>
+<text x="600" y="30" text-anchor="middle" fill="#8294B8" font-family="Segoe UI, Arial" font-size="14">gabriel@cloud-security: ~</text>
+<rect x="42" y="72" width="5" height="178" rx="2.5" fill="url(#line)"/>
+<g font-family="Consolas, Monaco, monospace" font-size="19">
+<text x="73" y="96" fill="#60A5FA">$</text><text x="95" y="96" fill="#E2E8F0">whoami</text>
+<text x="95" y="126" fill="#A5B4FC">Gabriel Alexandre — Support &amp; Infrastructure Analyst</text>
+<text x="73" y="164" fill="#60A5FA">$</text><text x="95" y="164" fill="#E2E8F0">cat focus.txt</text>
+<text x="95" y="194" fill="#C4B5FD">Cloud Security  •  Azure  •  Networks  •  Automation</text>
+<text x="73" y="232" fill="#60A5FA">$</text><text x="95" y="232" fill="#E2E8F0">echo $MISSION</text>
+<text x="95" y="262" fill="#7DD3FC">Construir ambientes seguros, disponíveis e bem documentados.</text>
+</g>
+</svg>
