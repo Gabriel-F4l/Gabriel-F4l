@@ -1,0 +1,39 @@
+<svg width="1200" height="410" viewBox="0 0 1200 410" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="410"><stop stop-color="#081426"/><stop offset="1" stop-color="#18103A"/></linearGradient>
+  <linearGradient id="core" x1="420" y1="80" x2="790" y2="330"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect x="1" y="1" width="1198" height="408" rx="24" fill="url(#bg)" stroke="#263A63" stroke-width="2"/>
+<circle cx="600" cy="205" r="116" fill="#3B82F6" opacity=".12" filter="url(#g)"/>
+<circle cx="600" cy="205" r="96" fill="#101E3B" stroke="url(#core)" stroke-width="3"/>
+<path d="M600 137L655 168V232L600 263L545 232V168L600 137Z" fill="#15284B" stroke="#60A5FA" stroke-width="2"/>
+<path d="M600 163L632 181V219L600 237L568 219V181L600 163Z" fill="#8B5CF6" opacity=".38"/>
+<text x="600" y="198" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial" font-weight="700" font-size="19">CLOUD</text>
+<text x="600" y="224" text-anchor="middle" fill="#BAE6FD" font-family="Segoe UI, Arial" font-weight="700" font-size="19">SECURITY</text>
+<g stroke="#526A9D" stroke-width="2" stroke-dasharray="6 7">
+<path d="M500 160L340 104"/><path d="M500 248L340 306"/><path d="M700 160L860 104"/><path d="M700 248L860 306"/>
+</g>
+<g font-family="Segoe UI, Arial">
+<rect x="64" y="50" width="300" height="110" rx="18" fill="#0E203C" stroke="#1D4ED8"/>
+<circle cx="104" cy="89" r="18" fill="#0EA5E9" opacity=".25"/><path d="M95 91L103 99L116 81" stroke="#7DD3FC" stroke-width="3" fill="none"/>
+<text x="137" y="88" fill="#FFFFFF" font-size="21" font-weight="700">Infraestrutura</text>
+<text x="90" y="122" fill="#A9B9D6" font-size="15">Microsoft 365 • Windows • Intune</text>
+<text x="90" y="143" fill="#A9B9D6" font-size="15">Suporte • Troubleshooting • Serviços</text>
+<rect x="64" y="250" width="300" height="110" rx="18" fill="#0E203C" stroke="#2563EB"/>
+<circle cx="104" cy="289" r="18" fill="#3B82F6" opacity=".25"/><path d="M92 289H116M104 277V301" stroke="#93C5FD" stroke-width="3"/>
+<text x="137" y="288" fill="#FFFFFF" font-size="21" font-weight="700">Redes</text>
+<text x="90" y="322" fill="#A9B9D6" font-size="15">TCP/IP • DNS • DHCP • VLAN • VPN</text>
+<text x="90" y="343" fill="#A9B9D6" font-size="15">Cisco • Conectividade • Diagnóstico</text>
+<rect x="836" y="50" width="300" height="110" rx="18" fill="#161A3D" stroke="#7C3AED"/>
+<circle cx="876" cy="89" r="18" fill="#8B5CF6" opacity=".25"/><path d="M876 75L889 81V91C889 99 884 105 876 109C868 105 863 99 863 91V81L876 75Z" stroke="#C4B5FD" stroke-width="2" fill="none"/>
+<text x="909" y="88" fill="#FFFFFF" font-size="21" font-weight="700">Segurança</text>
+<text x="862" y="122" fill="#BEB8D9" font-size="15">MFA • RBAC • Endpoint Security</text>
+<text x="862" y="143" fill="#BEB8D9" font-size="15">Identidade • Menor privilégio • SOC</text>
+<rect x="836" y="250" width="300" height="110" rx="18" fill="#161A3D" stroke="#9333EA"/>
+<circle cx="876" cy="289" r="18" fill="#A855F7" opacity=".25"/><path d="M864 289L872 297L889 280" stroke="#D8B4FE" stroke-width="3" fill="none"/>
+<text x="909" y="288" fill="#FFFFFF" font-size="21" font-weight="700">Observabilidade</text>
+<text x="862" y="322" fill="#BEB8D9" font-size="15">Zabbix • Grafana • Logs • Alertas</text>
+<text x="862" y="343" fill="#BEB8D9" font-size="15">PowerShell • Automação • Evidências</text>
+</g>
+</svg>
