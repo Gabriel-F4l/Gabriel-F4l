@@ -1,0 +1,19 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="rbg" x1="0" y1="0" x2="1200" y2="270"><stop stop-color="#081426"/><stop offset="1" stop-color="#171039"/></linearGradient><linearGradient id="track" x1="120" y1="0" x2="1080" y2="0"><stop stop-color="#38BDF8"/><stop offset=".55" stop-color="#6366F1"/><stop offset="1" stop-color="#A855F7"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="268" rx="22" fill="url(#rbg)" stroke="#263A63" stroke-width="2"/>
+<text x="55" y="50" fill="#FFFFFF" font-family="Segoe UI, Arial" font-size="25" font-weight="700">Minha trilha para Cloud Security</text>
+<text x="55" y="78" fill="#91A4C5" font-family="Segoe UI, Arial" font-size="15">Experiência prática + certificações + projetos documentados</text>
+<rect x="115" y="132" width="970" height="7" rx="3.5" fill="#243557"/><rect x="115" y="132" width="300" height="7" rx="3.5" fill="url(#track)"/>
+<g font-family="Segoe UI, Arial">
+<circle cx="135" cy="135" r="20" fill="#0EA5E9"/><path d="M126 135L133 142L146 128" stroke="white" stroke-width="3" fill="none"/>
+<text x="135" y="181" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700">Base</text><text x="135" y="204" text-anchor="middle" fill="#91A4C5" font-size="14">Suporte e Infra</text>
+<circle cx="375" cy="135" r="20" fill="#2563EB"/><path d="M366 135L373 142L386 128" stroke="white" stroke-width="3" fill="none"/>
+<text x="375" y="181" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700">AZ-900</text><text x="375" y="204" text-anchor="middle" fill="#91A4C5" font-size="14">Concluída</text>
+<circle cx="615" cy="135" r="20" fill="#4F46E5"/><text x="615" y="142" text-anchor="middle" fill="white" font-size="20" font-weight="700">3</text>
+<text x="615" y="181" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700">SC-900 / AZ-104</text><text x="615" y="204" text-anchor="middle" fill="#91A4C5" font-size="14">Próxima etapa</text>
+<circle cx="855" cy="135" r="20" fill="#7C3AED"/><text x="855" y="142" text-anchor="middle" fill="white" font-size="20" font-weight="700">4</text>
+<text x="855" y="181" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700">SC-200 / AZ-500</text><text x="855" y="204" text-anchor="middle" fill="#91A4C5" font-size="14">Especialização</text>
+<circle cx="1065" cy="135" r="20" fill="#A855F7"/><text x="1065" y="142" text-anchor="middle" fill="white" font-size="20">★</text>
+<text x="1065" y="181" text-anchor="middle" fill="#FFFFFF" font-size="17" font-weight="700">Cloud Security</text><text x="1065" y="204" text-anchor="middle" fill="#91A4C5" font-size="14">Objetivo profissional</text>
+</g>
+</svg>
